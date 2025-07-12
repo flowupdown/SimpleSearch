@@ -1,3 +1,4 @@
+# SimpleSearch
 Simple file search GUI. System agnostic.
 Implemented with Python 3.
 Just a template, there is a wide field of improvements.
